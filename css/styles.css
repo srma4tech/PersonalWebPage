@@ -44,6 +44,12 @@ a:hover{
 div {
 
 }
+
+.tech-skill {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 40px;
+}
 .intro{
   width: 30%;
   margin: auto;
@@ -155,6 +161,6 @@ div {
 
 .education p {
   clear: right;
-  padding-left: 250px;
+  padding-left: 500px;
   width: 60%;
 }
