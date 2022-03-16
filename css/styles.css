@@ -42,14 +42,16 @@ a:hover{
   color: #EAF6F6;
 }
 div {
-  padding-top: 30px;
+  padding-top: 20px;
 }
 
 .tech-skill {
   position: relative;
   display: inline-block;
   margin-bottom: 40px;
+
 }
+
 .intro{
   width: 30%;
   margin: auto;
@@ -160,7 +162,9 @@ div {
 }
 
 .education p {
+  text-align: center;
   clear: right;
-  padding-left: 500px;
-  width: 60%;
+  padding-left: 100px;
+  padding-right: 50px;
+  width: 90%;
 }
